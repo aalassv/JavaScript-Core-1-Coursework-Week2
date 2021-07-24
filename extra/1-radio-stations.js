@@ -14,7 +14,15 @@
  */
 
 // `getAllFrequencies` goes here
-
+function getAllFrequencies() {
+  let listArray = [];
+  for (let i = 87; i < 109; i++) {
+    listArray.push(i);
+  }
+  return listArray;
+}
+console.log(getAllFrequencies(87,109));
+//console.log(listRadioAvailable);
 /**
  * Next, let's write a function that gives us only the frequencies that are radio stations.
  * Call this function `getStations`.
@@ -25,7 +33,10 @@
  * - Return only the frequencies that are radio stations.
  */
 // `getStations` goes here
+function getStations (){
+  getAllFrequencies;
 
+}
 /*
  * ======= TESTS - DO NOT MODIFY =======
  * Note: You are not expected to understand everything below this comment!
@@ -65,3 +76,4 @@ test("getAllFrequencies() returns all frequencies between 87 and 108", () => {
 test("getStations() returns all the available stations", () => {
   expect(getStations()).toEqual(getAvailableStations());
 });
+

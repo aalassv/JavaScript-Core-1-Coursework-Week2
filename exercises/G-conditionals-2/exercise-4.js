@@ -6,9 +6,10 @@
   - otherwise return false
 
   Hint: Google how to check if a string contains a word
+  ====The indexOf() method returns the position of the first occurrence of a specified value in a string.====
 */
 
-function containsCode(sentence) {}
+let containsCode = (sentence) => sentence.indexOf('code') >= 0 ? true : false; 
 
 /* 
 DO NOT EDIT BELOW THIS LINE
