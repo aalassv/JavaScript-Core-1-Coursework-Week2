@@ -27,7 +27,7 @@ console.log(`Is -5 between 0 and 10? ${isBetweenZeroAnd10(-5)}`);
 /* 
   EXPECTED RESULT
   ---------------
-  1. Is 5 negative? false 
+  1. Is 5 negative? false   
   2. Is -5 negative? true 
   3. Is 5 between 0 and 10? true 
   5. Is -5 between 0 and 10? false 

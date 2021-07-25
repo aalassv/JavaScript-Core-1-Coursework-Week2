@@ -10,7 +10,7 @@ var mentors = ["Daniel", "Irina", "Rares"]; // Create an array with the names of
 /* 
   DO NOT EDIT BELOW THIS LINE
   --------------------------- */
-//console.log(numbers);
+console.log(numbers);
 console.log(mentors);
 
 /* 

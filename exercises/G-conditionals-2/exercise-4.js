@@ -23,7 +23,7 @@ console.log("'" + sentence2 + "': " + containsCode(sentence2));
 console.log("'" + sentence3 + "': " + containsCode(sentence3));
 
 /* 
-    EXPECTED RESULT
+    EXPECTED RESULT 
     ---------------
     'code your future': true
     'draw your future': false

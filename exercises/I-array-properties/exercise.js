@@ -1,12 +1,12 @@
 /*
-  Array properties
+  Array properties 
   ----------------
   Complete the function to test if an array is empty (has no values in it)
 
 */
 
 function isEmpty(arr) {
-  return arr.length <= 0;
+  return arr.length <= null;
 }
 
 /* 

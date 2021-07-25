@@ -5,7 +5,7 @@
   The variables should have values that match the expected results.
 */
 
-// Do not change these two statement
+// Do not change these two statement  
 var htmlLevel = 8;
 var cssLevel = 4;
 

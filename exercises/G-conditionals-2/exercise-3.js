@@ -29,5 +29,5 @@ console.log("'" + grade4 + "': " + calculateGrade(grade4));
   '49': F
   '90': A
   '70': B
-  '55': C
+  '55': C 
   */

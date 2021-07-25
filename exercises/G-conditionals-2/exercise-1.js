@@ -20,7 +20,7 @@ console.log(number2 + " is " + negativeOrPositive(number2));
 console.log(number3 + " is " + negativeOrPositive(number3));
 
 /* 
-  EXPECTED RESULT
+  EXPECTED RESULT 
   ---------------
   5 is positive
   -1 is negative

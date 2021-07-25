@@ -22,7 +22,7 @@ console.log("Are there more than 10 students?", moreThan10Students);
   EXPECTED RESULT
   ---------------
   Is Code Your Future great? true
-  Is Mozafar cool? false
+  Is Mozafar cool? false  
   Does 1 + 1 = 2? true
   Are there more than 10 students? false
 */

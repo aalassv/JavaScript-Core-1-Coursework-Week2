@@ -17,7 +17,7 @@ if (danielsRole === "mentor"){
 
 
 /* 
-EXPECTED RESULT
+EXPECTED RESULT  
 ---------------
 Hi, I'm Daniel, I'm a mentor.
 */
